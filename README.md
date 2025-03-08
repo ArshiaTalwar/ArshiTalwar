@@ -1,5 +1,13 @@
 # 💫 About Me:
-Web development, competitive programming and machine learning 
+🔭 I’m currently working on Web Development and Competitive Programming
+
+🌱 I’m currently learning Web Development, Machine Learning, Data Structures and Algorithms
+
+👯 I’m looking to collaborate on Web Development and Machine Learning Projects
+
+👨‍💻 All of my projects are available at https://github.com/ArshiaTalwar
+
+
 
 
 # 💻 Tech Stack:
